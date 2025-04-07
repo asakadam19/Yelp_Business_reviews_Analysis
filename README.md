@@ -1,4 +1,5 @@
-📊 End-to-End Data Analytics Project (Python + Snowflake + SQL)
+# 📊 End-to-End Data Analytics Project (Python + Snowflake + SQL)
+
 This project showcases a complete data analytics workflow using Python, Snowflake, and SQL:
 
 1. Data Preprocessing with Python
